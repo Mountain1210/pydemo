@@ -14,4 +14,4 @@ class Check():
         self.show()
  
 c = Check()          #构造函数被执行了
-c.show()   
+c.show()
